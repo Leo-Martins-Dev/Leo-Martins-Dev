@@ -1,6 +1,6 @@
 # Olá, eu sou Leo 👋
 
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou trabalhando principalmente com C#, .NET e ASP.NET, mas também tenho experiência em outras tecnologias e estou sempre procurando aprender mais.
+Sou um desenvolvedor c# com experiência na linguagem, bem como em SQL Server, Entity Framework, .NET, ASP.NET, HTML, CSS, JavaScript e Bootstrap. Desenvolvo soluções de alta qualidade e performance, seguindo as melhores práticas e padrões de mercado. Estou em constante atualização e aperfeiçoamento das minhas habilidades técnicas e interpessoais.
 
 # Tecnologias que Utilizo 
 

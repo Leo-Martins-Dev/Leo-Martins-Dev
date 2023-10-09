@@ -15,6 +15,6 @@ Sou um desenvolvedor c# com experiência na linguagem, bem como em SQL Server, E
 
 # Contato 
 
-Se você gostaria de entrar em contato comigo para discutir projetos, colaborações ou propostas, pode me encontrar no LinkedIn que está ao lado no meu perfil ou enviar um e-mail para leonardomartins578@gmail.com.
+Caso queira entrar em contato comigo para discutir projetos, colaborações ou propostas, pode me encontrar no LinkedIn que está ao lado no meu perfil ou enviar um e-mail para leonardomartins578@gmail.com.
 
-Obrigado por visitar o meu perfil no GitHub!
+Obrigado por visitar o meu perfil!

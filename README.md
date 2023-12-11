@@ -1,17 +1,16 @@
 # Olá, eu sou Leo 👋
 
-Sou um desenvolvedor Backend com experiência em C#, SQL Server, Entity Framework, .NET, ASP.NET sendo essa minha stack principal, também tenho conhecimento em Java e Spring Boot. Desenvolvo soluções de alta qualidade e performance, seguindo as melhores práticas e padrões de mercado. Estou em constante atualização e aperfeiçoamento das minhas habilidades técnicas e interpessoais.
+Sou um desenvolvedor Backend com experiência em C#, SQL Server, Entity Framework, .NET, ASP.NET sendo essa minha stack principal, também tenho conhecimento em Java e Spring Boot. Desenvolvo soluções de alta qualidade e performance, seguindo as melhores práticas e padrões de mercado.
 
 # Tecnologias que Utilizo 
 
 - C#
-- .NET
+- DOTNET
 - ASP.NET
 - SQL Server
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+- Java
+- Spring Boot
+- Node
 
 # Contato 
 

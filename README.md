@@ -8,8 +8,6 @@ Sou um desenvolvedor Backend com experiência em C#, SQL Server, Entity Framewor
 - DOTNET
 - ASP.NET
 - SQL Server
-- Java
-- Spring Boot
 - Node
 
 # Contato 
